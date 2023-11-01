@@ -1,0 +1,113 @@
+index
+
+<!DOCTYPE html> 
+
+ 
+
+<html>
+
+ 
+
+<head>
+
+<title>Elissa Nazzal Profile</title>
+
+<meta name="description" content="This is the profile of Elissa ">
+
+<meta charset="utf-8">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+ 
+
+<body>
+
+ 
+
+<div class="container">
+
+                   <div class="card-design">
+
+ 
+
+                                     <h1>Hello, I'm Elissa</h1>  
+
+             <img src="images/img.jpg" class="img-circle" width="100px" alt="Elissa Nazzal">
+
+             <p>
+
+                          Je suis etudiant en première année à l'EMLV, j'aime la musique et les séries
+
+               </p>
+
+               <a href=http://lewagon.com class="btn-blue"target="_blank">Discover Le Wagon</a>
+
+        </div>
+
+        <div class="card-design">
+
+                         <h2>sport</h2>
+
+                       <p>
+
+               je suis passionné de musique mais j'aime aussi beaucoup le sport comme la boxe,le basket et le tennis je touche un peu à tous les sports.
+
+           </p>
+
+    </div>
+
+ 
+
+        <div class="card-design">
+
+                       <h2>foot</h2>
+
+              <p>
+
+                       je suis passionné par la musique depuis toute petite, j'écris souvent des chansons et je les chante 
+
+     </div class="card-design">
+
+ 
+
+        <div>
+
+                       <h2>voyages✈️</h2>
+
+           <p>
+
+                       J'aime voyager et decouvrir de nouvelles cultures, je suis allez au Canada,en Italie et en Thailande. Mon pays de coeur restera le Maroc avec sa culture et sa population incroyable! 
+
+    </div class="card-design">
+
+ 
+
+ 
+
+       <div>
+
+                          <h2>Follow me </h2>
+
+ 
+
+            <ul class="list-inline">
+
+                         <li><a href=https://instagram.com/els_.91?igshid=YTQwZjQ0NmI0OA%3D%3D&utm_source=qr</li>
+
+                         <li> <a href=https://t.snapchat.com/My0ToKVK</li>
+
+             </ul>
+
+       </div>
+
+</div>
+
+</body>
+
+ 
+
+ 
+
+</html>
